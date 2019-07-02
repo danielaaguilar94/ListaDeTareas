@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListaDeTareas</string>
+    <string name="agregarElemento">Agregar Elemento</string>
+    <string name="agregarDescElemento">Descripción Elemento</string>
+</resources>
